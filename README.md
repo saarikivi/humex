@@ -1,6 +1,6 @@
 [Home](README.MD)  [Partners](partners.md)  [Research](research.md)  [Blog](blog.md)
 
-![alt text](https://github.com/saarikivi/humex/blob/master/images/Logo_Humex.png "HUMEX")
+![humex Logo](/images/Logo_Humex.png)
 
 ## *Quantifying Human Experience for Increased Intelligence Within Work Teams and in the Customer Interface*
 
