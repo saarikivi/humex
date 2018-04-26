@@ -2,5 +2,5 @@
 
 [26.4.2018](blogpost.md)
 
-![humex Logo](/images/Logo_Humex.png)
+
 
