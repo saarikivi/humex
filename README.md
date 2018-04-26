@@ -1,4 +1,4 @@
-[Home](README.MD) [Research](research.md) [Blog](blog.md)
+[Home](README.MD)  [Partners](partners.md)  [Research](research.md)  [Blog](blog.md)
 
 # HUMEX
 
