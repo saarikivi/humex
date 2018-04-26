@@ -2,6 +2,5 @@
 
 [26.4.2018](blogpost.md)
 
-![alt text][logo]
-
-[logo]:https://github.com/saarikivi/humex/blob/master/images/Logo_Humex.png "HUMEX"
+![humex Logo](/images/Logo_Humex.png)
+Format: ![Alt Text](url)
