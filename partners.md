@@ -1,6 +1,6 @@
 # Partners
 
-HUMEX is a joint collaboration between University of Helsinki, University of Oulu, Aalto University, and ten partner companies:
+HUMEX is a joint collaboration between University of Helsinki, University of Oulu, Aalto University, and ten partner companies. HUMEX is funded by [Business Finland](https://www.businessfinland.fi/en/).
 
 [**Reaktor**](https://www.reaktor.com/) / [**Fake**](http://www.fake.fi/)
 
