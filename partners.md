@@ -6,7 +6,7 @@
 
 [**Reaktor**](https://www.reaktor.com/) / [**Fake**](http://www.fake.fi/)
 
-[**Fira Oy**](https://www.fira.fi/en/)
+[**Fira**](https://www.fira.fi/en/)
 
 [**Mehiläinen**](https://www.mehilainen.fi)
 
