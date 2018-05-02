@@ -16,7 +16,7 @@
 
 [**Fondia**](https://www.fondia.fi/)
 
-[**Wunderkraut**](https://wunder.io/)
+[**Wunder**](https://wunder.io/)
 
 [**Elisa**](www.elisa.fi/)
 
