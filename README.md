@@ -1,6 +1,6 @@
 [Home](README.MD)  [Partners](partners.md)  [Research](research.md)  [Blog](blog.md)
 
-![humex Logo](/images/Logo_Humex.png){:height="20%" width="20%"}
+![humex Logo](/images/Logo_Humex.png)
 
 ## *Quantifying Human Experience for Increased Intelligence Within Work Teams and in the Customer Interface*
 
