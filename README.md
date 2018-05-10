@@ -1,6 +1,6 @@
-[Home](README.MD)  [Partners](partners.md)  [Research](research.md)  [Blog](blog.md)
+[Home](README.MD)  |  [Partners](partners.md)  |  [Research](research.md)  |  [Blog](blog.md)
 
-![humex Logo](/images/Logo_Humex.png)
+![humex Logo](/images/Logo_Humex.png){:height="40%" width="40%"}
 
 ## *Quantifying Human Experience for Increased Intelligence Within Work Teams and in the Customer Interface*
 
@@ -9,4 +9,4 @@
 1. improving digital and face-to-face interaction
 2. using accurate information of individuals’ emotions in the design and testing of services, applications and contents.
 
-![hyLogo](images/University_of_Helsinki.logo.png){:height="10%" width="10%"} ![aaltoLogo](images/Aalto_University_logo.png){:height="10%" width="10%"} ![ouluLogo](images/Oulu_logo.png){:height="10%" width="10%"} 
+![hyLogo](images/University_of_Helsinki.logo.png){:height="10%" width="10%"} |  ![aaltoLogo](images/Aalto_University_logo.png){:height="10%" width="10%"} |  ![ouluLogo](images/Oulu_logo.png){:height="10%" width="10%"} 
