@@ -9,4 +9,4 @@
 1. improving digital and face-to-face interaction
 2. using accurate information of individuals’ emotions in the design and testing of services, applications and contents.
 
-![hyLogo](images/University_of_Helsinki.logo.png){:height="50%" width="50%"}    |    ![aaltoLogo](images/Aalto_University_logo.png){:height="43%" width="43%"}|![ouluLogo](images/Oulu_logo.png){:height="170%" width="170%"} 
+![hyLogo](images/University_of_Helsinki.logo.png){:height="50%" width="50%"}| ![aaltoLogo](images/Aalto_University_logo.png){:height="43%" width="43%"}| ![ouluLogo](images/Oulu_logo.png){:height="170%" width="170%"}|  
