@@ -1,9 +1,4 @@
 
-footer {
-  display: none;
-}
-
-
-header {
+footer, header {
   display: none;
 }
